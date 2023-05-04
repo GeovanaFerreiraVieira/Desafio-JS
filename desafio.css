@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(145, 26, 86);
+    border: 5px solid rgb(193, 64, 144);
+    width: 550px;
+  }
+  
+  
+  h2 {
+    color: rgb(0, 0, 0);
+  }
+  
+  
+  .texto {
+    width: 550px;
+    border: 5px solid rgb(193, 64, 144);
+    height: 180px;
+  }
+
+  body {
+    background-color: rgba(187, 127, 190, 0.26);
+    
+  }
+  
